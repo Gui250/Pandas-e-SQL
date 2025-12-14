@@ -1,0 +1,12 @@
+# Arquivos CSV grandes (excedem limite do GitHub)
+Estatistica Descritiva/ifood-restaurants-february-2021.csv
+Estatistica Descritiva/ifood-restaurants-november-2020.csv
+
+# Arquivos de checkpoint do Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Outros arquivos grandes
+*.csv
+!Estatistica Descritiva/analise_imoveis_sao_paulo.csv
+!Estatistica Descritiva/base_ifood_limpa.csv
